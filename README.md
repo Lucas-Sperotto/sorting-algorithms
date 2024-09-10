@@ -4,27 +4,29 @@ Este repositório contém implementações de **21 algoritmos de ordenação** e
 
 ## Algoritmos Incluídos
 
-- Bubble Sort
-- Selection Sort
-- Insertion Sort
-- Merge Sort
-- Quick Sort
-- Heap Sort
-- Counting Sort
-- Radix Sort
-- Bucket Sort
-- Shell Sort
-- Tim Sort
-- Comb Sort
-- Pigeonhole Sort
-- Cycle Sort
-- Bitonic Sort
-- Gnome Sort
-- Odd-Even Sort
-- Strand Sort
-- Patience Sort
-- Bogo Sort
-- Stooge Sort
+Aqui estão os algoritmos implementados com links para a documentação na Wikipedia, tanto em português quanto em inglês (quando disponíveis):
+
+1. **Bubble Sort** [Português](https://pt.wikipedia.org/wiki/Bubble_sort) | [Inglês](https://en.wikipedia.org/wiki/Bubble_sort)
+2. **Selection Sort** [Português](https://pt.wikipedia.org/wiki/Selection_sort) | [Inglês](https://en.wikipedia.org/wiki/Selection_sort)
+3. **Insertion Sort** [Português](https://pt.wikipedia.org/wiki/Insertion_sort) | [Inglês](https://en.wikipedia.org/wiki/Insertion_sort)
+4. **Merge Sort** [Português](https://pt.wikipedia.org/wiki/Merge_sort) | [Inglês](https://en.wikipedia.org/wiki/Merge_sort)
+5. **Quick Sort** [Português](https://pt.wikipedia.org/wiki/Quicksort) | [Inglês](https://en.wikipedia.org/wiki/Quicksort)
+6. **Heap Sort** [Português](https://pt.wikipedia.org/wiki/Heapsort) | [Inglês](https://en.wikipedia.org/wiki/Heapsort)
+7. **Counting Sort** [Inglês](https://en.wikipedia.org/wiki/Counting_sort)
+8. **Radix Sort** [Português](https://pt.wikipedia.org/wiki/Radix_sort) | [Inglês](https://en.wikipedia.org/wiki/Radix_sort)
+9. **Bucket Sort** [Inglês](https://en.wikipedia.org/wiki/Bucket_sort)
+10. **Shell Sort** [Português](https://pt.wikipedia.org/wiki/Shell_sort) | [Inglês](https://en.wikipedia.org/wiki/Shellsort)
+11. **Tim Sort** [Inglês](https://en.wikipedia.org/wiki/Timsort)
+12. **Comb Sort** [Inglês](https://en.wikipedia.org/wiki/Comb_sort)
+13. **Pigeonhole Sort** [Inglês](https://en.wikipedia.org/wiki/Pigeonhole_sort)
+14. **Cycle Sort** [Inglês](https://en.wikipedia.org/wiki/Cycle_sort)
+15. **Bitonic Sort** [Inglês](https://en.wikipedia.org/wiki/Bitonic_sorter)
+16. **Gnome Sort** [Inglês](https://en.wikipedia.org/wiki/Gnome_sort)
+17. **Odd-Even Sort** [Inglês](https://en.wikipedia.org/wiki/Odd%E2%80%93even_sort)
+18. **Strand Sort** [Inglês](https://en.wikipedia.org/wiki/Strand_sort)
+19. **Patience Sort** [Inglês](https://en.wikipedia.org/wiki/Patience_sorting)
+20. **Bogo Sort** [Inglês](https://en.wikipedia.org/wiki/Bogosort)
+21. **Stooge Sort** [Inglês](https://en.wikipedia.org/wiki/Stooge_sort)
 
 ## Como Usar
 
